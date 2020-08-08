@@ -8,6 +8,19 @@
     <img src="https://github-visitor-badge.glitch.me/badge?page_id=ZainCheung.netease-cloud-fastplay"/>
 </p>
 
+## 说在前面
+
+1. 有些电脑下载直接用的EXE文件会报错（就比如我的）
+
+![](https://gitee.com/xulch/blogimg/raw/master/img/20200808150246.png)
+
+所以需要下载本仓库（克隆本仓库）。
+
+2. 然后进去根目录， 'shift+右键' ，打开命令提示符（Cmd）
+
+3. 输入 'Python main.py' ，回车即可运行。
+ - 注意：有些会缺失 'wx' ，需要手动安装
+   - cmd输入 'pip install -U wxPython' ，安装完重新输入命令运行即可。
 
 
 [📷 效果演示](#效果演示)
@@ -24,17 +37,7 @@
 
 ------
 
-## 说在前面
 
-1. 有些电脑下载直接用的EXE文件会报错（就比如我的）
-
-![](https://gitee.com/xulch/blogimg/raw/master/img/20200808150246.png)
-
-所以需要下载本仓库（克隆本仓库）。
-2. 然后进去根目录， 'shift+右键' ，打开命令提示符（Cmd）
-3. 输入 'Python main.py' ，回车即可运行。
- - 注意：有些会缺失 'wx' ，需要手动安装
-  - cmd输入 'pip install -U wxPython' ，安装完重新输入命令运行即可。
 
 # 效果演示
 
